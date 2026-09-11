@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MichailBel.github.io/resources-7m6e7k/sitemap.xml
